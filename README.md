@@ -3,6 +3,8 @@ The exercises for this dedicated course in Introduction to Signal Processing wer
 
 The questions are in French, but my comments in the codes and my reports and exam are in English.
 
+This is an introductory course. A more advanced version is found at https://github.com/TRAN-Gia-Quoc-Bao/Course-Signal-Processing.
+
 In the folders, there are the data materials, my codes, and my reports, i.e., my solutions and explanations to the Labs.
 
 Contents:
