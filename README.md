@@ -1,7 +1,9 @@
 # Exercises for Introduction to Signal Processing course
 The exercises for this dedicated course in Introduction to Signal Processing were given in Labs from 1 to 4 and an exam on computer.
 
-In the folders, there are the questions, the data materials, my codes, and my reports, i.e., my solutions and explanations to the Labs.
+The questions are in French, but my comments in the codes and my reports and exam are in English.
+
+In the folders, there are the data materials, my codes, and my reports, i.e., my solutions and explanations to the Labs.
 
 Contents:
 
