@@ -1,2 +1,2 @@
-# Optimization course: Lab 0
-Topic: Hands on Matlab and graphical optimization
+# Introduction to Signal Processing course: Lab 1
+Topic: Acquisition and reproduction of signals
