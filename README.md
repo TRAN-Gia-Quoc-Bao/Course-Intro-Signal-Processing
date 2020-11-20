@@ -18,3 +18,5 @@ Lab 3: Synthesis of digital filters
 Lab 4: Experiment with data
 
 Exam: Analysis and processing of a digital signal
+
+![UGA logo](https://github.com/TRAN-Gia-Quoc-Bao/Course-Intro-Signal-Processing/blob/main/logoUGA.png)
