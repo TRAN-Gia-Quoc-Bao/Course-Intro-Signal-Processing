@@ -19,4 +19,4 @@ Lab 4: Experiment with data
 
 Exam: Analysis and processing of a digital signal
 
-![UGA logo](https://github.com/TRAN-Gia-Quoc-Bao/Course-Intro-Signal-Processing/blob/main/logoUGA.png)
+![UGA logo](https://github.com/TRAN-Gia-Quoc-Bao/Course-Intro-Signal-Processing/blob/main/logoUGA.jpg)
